@@ -6,13 +6,9 @@
   <a href="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png">
     <img src="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png" alt="Logo" width="500" height="80">
   </a>
-
   <h3 align="center">SwiftCRUD</h3>
-
   <p align="center">
     Tambahkan, update, delete data kini berada digengaman Anda.
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
 </div>
 
 
