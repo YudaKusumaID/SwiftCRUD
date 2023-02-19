@@ -5,7 +5,7 @@ Program CRUD
 <br />
 <div align="center">
   <a href="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png">
-    <img src="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png" alt="Logo" width="120" height="80">
+    <img src="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png" alt="Logo" width="500" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
