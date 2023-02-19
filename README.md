@@ -67,12 +67,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Built With
 
-* PHP
-* MySQL
-* JavaScript
-* HTML/CSS
-* Laravel framework
-* Bootstrap
+![logo](https://www.php.net/images/logos/new-php-logo.svg)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
