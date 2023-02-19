@@ -4,7 +4,7 @@ Program CRUD
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/YudaKusumaID/SwiftCRUD/blob/main/logo.png)">
+  <a href="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
