@@ -67,7 +67,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Built With
 
-* [![Php][Next.js]][php-url]
+* [![PHP][Next.js]][php-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
