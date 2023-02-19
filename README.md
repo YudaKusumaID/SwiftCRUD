@@ -1,5 +1,4 @@
 # SwiftCRUD
-Program CRUD
 
 <!-- PROJECT LOGO -->
 <br />
@@ -8,10 +7,10 @@ Program CRUD
     <img src="https://raw.githubusercontent.com/YudaKusumaID/SwiftCRUD/main/logo.png" alt="Logo" width="500" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SwiftCRUD</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Tambahkan, update, delete data kini berada digengaman Anda.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
